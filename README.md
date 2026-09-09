@@ -39,7 +39,7 @@ Sigue estos pasos y comandos específicos para arrancar la aplicación en tu ent
 Clonar el repositorio:
 
 Bash
-git clone https://github.com/emanuelvargas01/Practica3-EstruturaIf.git
+git clone https://github.com/emanuelvargas01/LibrodeCalificaciones.git
 
 
 Autor y Contexto
